@@ -61,5 +61,12 @@ Throughout the tutorial, I will provide step-by-step instructions on how to set 
 
 By the end of this tutorial, you will have a fully functional chatbot that can engage in conversations with users, and you will have gained valuable experience in using Microsoft DialoGPT, Flask, and web development technologies such as HTML, CSS, and JavaScript.
 
+## Features
+
+- Chatbot powered by Microsoft DialoGPT
+- Web interface using Flask and jQuery
+- MongoDB-based chat history storage
+- `/history` endpoint to view past conversations
+
 ```
 
